@@ -1,10 +1,10 @@
 {
-	"affinities": {
-		"sport": {
-			"Football": 36,
-			"Basketball": 24,
-			"Tenis": 8
-		},
+  "affinities": {
+    "sport": {
+      "Football": 36,
+      "Basketball": 24,
+      "Tenis": 8
+    },
     "game_type": {
       "slots": 32,
       "roullette": 16,
@@ -14,5 +14,5 @@
       "sport": 20,
       "casino": 20
     }
-	}
+  }
 }
